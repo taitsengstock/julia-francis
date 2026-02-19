@@ -138,7 +138,6 @@ a:visited {
 }
 
 #index ul.section span.section-title {
-  cursor: pointer;
   display: block;
   margin-bottom: 0;
 }
