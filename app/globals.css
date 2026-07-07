@@ -229,6 +229,7 @@ a:visited {
 #index ul.section span.section-title {
   display: block;
   margin-bottom: 0;
+  font-weight: bold;
 }
 
 #index ul.section span.section-title.active {
@@ -256,6 +257,11 @@ a:visited {
 /* === Header & Footer === */
 #index .header {
   margin-bottom: 1em;
+}
+
+#index .header a,
+#index .header a:visited {
+  color: #000;
 }
 
 #index .footer {
